@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Life in Germany"
-      children:
+    children:
       - title: "TBD"
         url: /categories/categories1/
     
@@ -33,6 +33,7 @@ categories:
   #  url: /categories/categories3/
   #- title: "Categories4"
   #  url: /categories/categories4/
+
 
 
 
