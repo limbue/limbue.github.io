@@ -23,7 +23,7 @@ categories:
       - title: "TBD"
         url: /categories/categories-categories1/
     
-  - title: "Life in FU Berlin"
+  - title: "Computational Science"
     children:
       - title: "Advanced Algorithmes"
         url: /categories/categories-categories2/
@@ -33,6 +33,7 @@ categories:
   #  url: /categories/categories3/
   #- title: "Categories4"
   #  url: /categories/categories4/
+
 
 
 
