@@ -21,18 +21,19 @@ categories:
   - title: "Life in Germany"
     children:
       - title: "TBD"
-        url: /categories/categories1/
+        url: /categories/categories-categories1/
     
   - title: "Life in FU Berlin"
     children:
       - title: "Advanced Algorithmes"
-        url: /categories/categories2/
+        url: /categories/categories-categories2/
       - title: "Computational Sciences"
-        url: /categories/categories3/
+        url: /categories/categories-categories3/
   #- title: "Categories3"
   #  url: /categories/categories3/
   #- title: "Categories4"
   #  url: /categories/categories4/
+
 
 
 
